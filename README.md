@@ -1,4 +1,4 @@
-# farmersbyte-vuelibraries
+# Vue Library
 
 ## Npm installation
 This project was generated with [Node](https://nodejs.org/download/release/v10.17.0) version 10.17.0.
